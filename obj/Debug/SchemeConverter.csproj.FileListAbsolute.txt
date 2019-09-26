@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\bin\Debug\SchemeConverter.dll
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\bin\Debug\SchemeConverter.pdb
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\bin\Debug\SchemeConverter.dll.manifest
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\bin\Debug\SchemeConverter.vsto
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\obj\Debug\SchemeConverter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\obj\Debug\SchemeConverter.Properties.Resources.resources
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\obj\Debug\SchemeConverter.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\obj\Debug\SchemeConverter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\obj\Debug\SchemeConverter.csproj.CopyComplete
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\obj\Debug\SchemeConverter.dll
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\obj\Debug\SchemeConverter.pdb
+C:\Users\User\source\repos\SchemeConverter\SchemeConverter\SchemeConverter\obj\Debug\SchemeConverter.Convert.resources
